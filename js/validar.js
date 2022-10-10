@@ -39,7 +39,7 @@ return response.json();
 function validarInicio() {
     let validado = false;
     
-    for (let i = 0; i < usuarios.length; i++) {
+    for (let i = 0; i < usuarios.length - 1; i++) {
         
         if (document.getElementById("usuario").value == usuarios[i].usuario && document.getElementById("contraseña").value == usuarios[i].contraseña) {
             validado = true;
