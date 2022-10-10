@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "nombre" : "Air Optix Aqua HidraGlyde",
+        "marca"  : "Alcori",
+        "precioCom" : 500,
+        "precioVen" : 700,
+        "queratometria": 345.34,
+        "existencias" : 15,
+        "estatus" : "Activo"
+    },
+    {
+        "id" : 2,
+        "nombre" : "Air Optix Aqua HidraGlyde",
+        "marca"  : "Alcon",
+        "precioCom" : 500,
+        "precioVen" : 700,
+        "queratometria": 345.34,
+        "existencias" : 15,
+        "estatus" : "Activo"
+    },
+    {
+        "id" : 3,
+        "nombre" : "Frecuent All Day Plus",
+        "marca"  : "Alcon",
+        "precioCom" : 400,
+        "precioVen" : 477,
+        "queratometria": 345.34,
+        "existencias" : 30,
+        "estatus" : "Activo"
+    },
+    {
+        "id" : 4,
+        "nombre" : "Air Optix Plus HidraGlyde",
+        "marca"  : "Alcon",
+        "precioCom" : 700,
+        "precioVen" : 940,
+        "queratometria": 345.34,
+        "existencias" : 15,
+        "estatus" : "Activo"
+    },
+    {
+        "id" : 5,
+        "nombre" : "Ulta multifocal",
+        "marca"  : "Bausch & Lomb",
+        "precioCom" : 995,
+        "precioVen" : 1150,
+        "queratometria": 345.34,
+        "existencias" : 50,
+        "estatus" : "Activo"
+    }
+]
